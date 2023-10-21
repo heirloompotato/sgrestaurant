@@ -1,0 +1,22 @@
+Restaurant,Price,Rating,Cuisine,Location,linkParser,Link
+Penny University,Affordable,1,Cafe,Paya Lebar,PennyUniversity,www.PennyUniversity.com
+Obba Jja Jiang,Mid-range,2,Korean,Tanjong Pagar,ObbaJjaJiang,www.ObbaJjaJiang.com
+Dong Bei Ren Jia,High-end,4,Chinese,Telok Ayer,DongBeiRenJia,www.DongBeiRenJia.com
+Spring Leaf,Affordable,3,Indian,Esplanade,SpringLeaf,www.SpringLeaf.com
+Pasta Bar,Mid-range,5,Italian,Orchad,PastaBar,www.PastaBar.com
+Menya Musashi,High-end,3,Japanese,Changi,MenyaMusashi,www.MenyaMusashi.com
+Vegan Burg,Affordable,2,Vegetarian,Eunos,VeganBurg,www.VeganBurg.com
+Macdonalds,Mid-range,1,Cafe,Hougang,Macdonalds,www.Macdonalds.com
+Fat Cow,High-end,2,Korean,City Hall,FatCow,www.FatCow.com
+Godmama,Affordable,4,Chinese,Farrer Park,Godmama,www.Godmama.com
+White Rabbit,Mid-range,3,Indian,Little India,WhiteRabbit,www.WhiteRabbit.com
+Wild Honey,High-end,5,Italian,Somerset,WildHoney,www.WildHoney.com
+Koma,Affordable,3,Japanese,Dhoby Ghuat,Koma,www.Koma.com
+Bread Street Kitchen,Mid-range,2,Vegetarian,Bugis,BreadStreetKitchen,www.BreadStreetKitchen.com
+Jumbo,High-end,1,Cafe,Pasir Ris,Jumbo,www.Jumbo.com
+Duck Land,Affordable,2,Korean,Ang Mo Kio,DuckLand,www.DuckLand.com
+Marmalade Pantry,Mid-range,4,Chinese,Yishun,MarmaladePantry,www.MarmaladePantry.com
+Botanic Restuarant,High-end,3,Indian,Clementi,BotanicRestuarant,www.BotanicRestuarant.com
+Jigger and Pony,Affordable,5,Halal,Dover,JiggerandPony,www.JiggerandPony.com
+Dancing Crab,Mid-range,3,Japanese,Jurong,DancingCrab,www.DancingCrab.com
+Candle Nut,High-end,2,Vegetarian,Kallang,CandleNut,www.CandleNut.com
