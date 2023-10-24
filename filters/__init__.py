@@ -4,7 +4,6 @@ def filter(queryData, df):
     price = list(map(const.pDict.get, queryData[1]))
     if len(queryData[2]) > 0:
         rating_str = list(map(const.rDict.get, queryData[2]))
-        # print(f" this is rating str {rating_str}")
         rating = [int(i) for i in rating_str]
     else:
         rating = []
